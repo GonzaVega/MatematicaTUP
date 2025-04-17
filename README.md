@@ -1,10 +1,10 @@
-#### MatematicaTUP - 2025
+# MatematicaTUP - 2025
 
 Carpeta dedicada al trabajo de la materia Matemática de la TUPaD - 2025
 
-### Grupo N° 5
+## Grupo N° 5
 
-## Integrantes:
+### Integrantes:
 
 - Eric Súarez Dubs.
 - Mateo Serafini.
@@ -12,7 +12,7 @@ Carpeta dedicada al trabajo de la materia Matemática de la TUPaD - 2025
 - Farid Salomón.
 - Gonzalo Vega.
 
-## Instrucciones de Uso:
+### Instrucciones de Uso:
 
 1. Clona el repositorio.
 2. Instala las dependencias: `pip install Pillow`.
