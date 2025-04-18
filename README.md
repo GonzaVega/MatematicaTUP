@@ -6,7 +6,7 @@ Carpeta dedicada al trabajo de la materia Matemática de la TUPaD - 2025
 
 ### Integrantes:
 
-- Eric Súarez Dubs.
+- Eric Suárez Dubs.
 - Mateo Serafini.
 - Hugo Tcach.
 - Farid Salomón.
