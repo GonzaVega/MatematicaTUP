@@ -343,7 +343,7 @@ def generar_tabla(operacion):
           res = A | B
         elif operacion == "XOR":
           res = A ^ B
-    resultados.append((A, B, res))
+        resultados.append((A, B, res))
   return resultados
 
 def mostrar_tabla(operacion):
